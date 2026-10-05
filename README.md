@@ -4,7 +4,7 @@ Sistema web administrativo desarrollado para la gestión de un negocio de alojam
 
 El sistema permite administrar diferentes áreas relacionadas con la operación del establecimiento, incluyendo alojamientos, clientes, pagos, reservas y usuarios del sistema.
 
-![AURUMGF-MVC](docs/images/portada.png)
+![AURUMGF-MVC](DOCS/1.png)
 
 ## 📌 Descripción
 
