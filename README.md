@@ -1,10 +1,17 @@
 # AURUMGF - Sistema de Gestión para Glamping
 
+![AURUMGF-MVC](DOCS/1.png)
+![AURUMGF-MVC](DOCS/2.png)
+![AURUMGF-MVC](DOCS/3.png)
+![AURUMGF-MVC](DOCS/4.png)
+![AURUMGF-MVC](DOCS/5.png)
+![AURUMGF-MVC](DOCS/6.png)
+![AURUMGF-MVC](DOCS/7.png)
+
+
 Sistema web administrativo desarrollado para la gestión de un negocio de alojamiento, utilizando PHP y una arquitectura MVC.
 
 El sistema permite administrar diferentes áreas relacionadas con la operación del establecimiento, incluyendo alojamientos, clientes, pagos, reservas y usuarios del sistema.
-
-![AURUMGF-MVC](DOCS/1.png)
 
 ## 📌 Descripción
 
